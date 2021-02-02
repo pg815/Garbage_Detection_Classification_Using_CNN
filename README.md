@@ -1,1 +1,1 @@
-# GarbageDetection-Classification
+# GarbageDetection-Classification Using CNN
